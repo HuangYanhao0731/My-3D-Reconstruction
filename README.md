@@ -1,1 +1,1 @@
-# -My-3D-Reconstruction
+# My-3D-Reconstruction
